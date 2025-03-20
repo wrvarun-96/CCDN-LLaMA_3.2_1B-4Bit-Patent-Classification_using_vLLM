@@ -18,7 +18,7 @@ fsspec==2024.2.0
 diffusers==0.32.2
 sentence-transformers==3.4.1
 
-triton==3.1.0
+triton==3.2.0
 
 vllm
 
